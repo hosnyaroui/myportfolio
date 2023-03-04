@@ -185,7 +185,7 @@ const projects = [
   {
     name: "CRWN Clothing",
     description:
-      "Description",
+      "An e-commerce application built with React, Context API",
     tags: [
       {
         name: "react",
@@ -206,7 +206,7 @@ const projects = [
   {
     name: "Ultimate Animation",
     description:
-      "Description",
+      "A Front-end application built with HTML, CSS, javascript with cool animations.",
     tags: [
       {
         name: "JavaScript",
