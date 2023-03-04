@@ -166,9 +166,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Travel",
+    name: "Travelio",
     description:
-      "Link voyages is a Travel and Tour Booking Responsive React",
+      "Travelio is a Travel and Tour Booking Responsive React",
     tags: [
       {
         name: "react",
